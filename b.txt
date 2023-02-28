@@ -1,0 +1,2 @@
+This is second txt file.
+I edited this txt file before commit.
